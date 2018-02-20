@@ -8,6 +8,6 @@ namespace SuperLib
 {
     public class Class1
     {
-        public int No;
+        public int N;
     }
 }
